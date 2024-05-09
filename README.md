@@ -22,3 +22,10 @@ Once the instruction has been fully decoded, ASIC is now in STATE_MEMORY. Memory
 
 
 ![image](https://github.com/lonhb0124/Architect-Vector-Multiplication-ASIC/assets/111609834/1d4123b5-f340-4a9b-9ee8-b0839f5c61a8)
+
+# state - flow
+
+![image](https://github.com/lonhb0124/Architect-Vector-Multiplication-ASIC/assets/111609834/2e8ec1fb-2a57-493a-aa04-c51c2b202374)
+
+![image](https://github.com/lonhb0124/Architect-Vector-Multiplication-ASIC/assets/111609834/46686d59-256a-4a73-b912-a47ae49b3efb)
+
