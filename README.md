@@ -7,6 +7,7 @@ Basic testing of correctness Design follows control-datapath paradigm Some optim
 # Architectural Description
 
 Our ASIC design has five main states, where some states also have their own sub-states. 
+
 Main state machine’s state:
 
 {STATE_IDLE, STATE_CMD, STATE_MEMORY, STATE_CALC, STATE_DONE}
